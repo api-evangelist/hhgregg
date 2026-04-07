@@ -1,7 +1,12 @@
 aid: hhgregg
-url: https://raw.githubusercontent.com/api-evangelist/hhgregg/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/hhgregg/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.hhgregg.com
+description: >-
+  Shop hhgregg for Electronics, Cameras, Pro Video, Laptops, Headphones, Drones &
+  more. Free shipping, installation on many of our products. Hurry in for best selection.
+  Huge savings storewide!
