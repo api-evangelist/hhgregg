@@ -1,11 +1,33 @@
-# hhgregg
+# hhgregg (hhgregg)
+hhgregg is an electronics retailer offering products such as televisions, cameras, professional video equipment, laptops, headphones, drones, and more, with free shipping and installation services on many products.
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for hhgregg.
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/hhgregg/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
+
+## Tags:
+
+ - Retail, Electronics, Appliances, E-Commerce
+
+## Timestamps
+
+- **Created:** 2026-03-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented yet. Contributions welcome.
 
-## Properties
+## Common Properties
 
 - [Website](https://www.hhgregg.com)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
