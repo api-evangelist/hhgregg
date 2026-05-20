@@ -18,6 +18,8 @@ tags:
   - Retail
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hhgregg
   - type: Website
     url: https://www.hhgregg.com
 maintainers:
