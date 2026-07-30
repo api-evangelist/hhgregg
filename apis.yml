@@ -5,7 +5,18 @@ description: >-
   cameras, professional video equipment, laptops, headphones, drones, and
   more, with free shipping and installation services on many products.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hhgregg.png
 url: >-
   https://raw.githubusercontent.com/api-evangelist/hhgregg/refs/heads/main/apis.yml
 created: '2026-03-24'
