@@ -1,7 +1,9 @@
 ---
 title: Hhgregg closing its Newport News store
 url: https://www.dailypress.com/2017/03/02/hhgregg-closing-its-newport-news-store/
-date: '2026-05-25'
+published: '2017-03-02'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"hhgregg" press release artificial intelligence'
 position: 5
 source: serpapi-google

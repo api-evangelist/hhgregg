@@ -1,7 +1,9 @@
 ---
 title: HHGregg Takes Actions To Backpedal Bankruptcy Rumors
 url: https://www.pymnts.com/news/retail/2017/hhgregg-takes-actions-to-backpedal-bankruptcy-rumors/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"hhgregg" press release artificial intelligence'
 position: 1
 source: serpapi-google

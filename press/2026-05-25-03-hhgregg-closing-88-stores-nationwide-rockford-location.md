@@ -1,7 +1,9 @@
 ---
 title: Hhgregg closing 88 stores nationwide, Rockford location ...
 url: https://www.wifr.com/content/news/Hhgregg-closing-88-stores-nationwide-415336973.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"hhgregg" press release artificial intelligence'
 position: 3
 source: serpapi-google
